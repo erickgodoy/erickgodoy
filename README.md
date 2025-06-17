@@ -11,10 +11,3 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-
-### My stats ⭐
-
-<div align="center">
-<img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgodoy&theme=react&layout=compact&hide=HTML">
-</div>
-
