@@ -15,7 +15,6 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=erickgodoy&show_icons=true&theme=react">
 <img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgodoy&theme=react&layout=compact&hide=HTML">
 </div>
 
