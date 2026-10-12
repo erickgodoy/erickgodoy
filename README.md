@@ -1,12 +1,13 @@
-<h1 align="center"><b>Hey there, I'm Erick</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey there, I'm Erick </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 :paperclip: [My Resume/CV](#)
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Erick_Godoy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](#) 
-[![Mail Badge](https://img.shields.io/badge/-Erick_Godoy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:erickgodoy725@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]
+(mailto:erickgodoy725@gmail.com)
 
 ### My preferred technologies are:
 
